@@ -1,5 +1,6 @@
 from random import randint
 
+
 sala = 1
 caminho = 0
 jogadas = 0
